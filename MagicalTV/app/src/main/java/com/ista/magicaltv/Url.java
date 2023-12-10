@@ -23,6 +23,12 @@ public class Url extends FragmentActivity {
         urls.add("<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/xHi2sCzt1mA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>");
         urls.add("<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/24ZIFuHg4f0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>");
         urls.add("<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/r6HUt9UEohU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>");
+        //Videos de la fila 3
+        urls.add("<iframe width=\"100%\" height=\"100%\" src=\"https://https://www.youtube.com/watch?v=L6U5pvC3VnA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>");
+        urls.add("<iframe width=\"100%\" height=\"100%\" src=\"https://https://www.youtube.com/watch?v=tmZIzqvet9U\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>");
+        urls.add("<iframe width=\"100%\" height=\"100%\" src=\"https://https://www.youtube.com/watch?v=ykgYAaxL2dA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>");
+        urls.add("<iframe width=\"100%\" height=\"100%\" src=\"https://https://www.youtube.com/watch?v=kAaJpo2VZec\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>");
+        urls.add("<iframe width=\"100%\" height=\"100%\" src=\"https://https://www.youtube.com/watch?v=-pWSQYpkkjk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>");
     }
 
     public ArrayList<String> getUrls() {

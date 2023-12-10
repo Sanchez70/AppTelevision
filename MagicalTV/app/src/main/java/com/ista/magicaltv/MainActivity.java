@@ -1,3 +1,4 @@
+
 package com.ista.magicaltv;
 
 import android.content.Intent;
