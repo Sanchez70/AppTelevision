@@ -1,6 +1,5 @@
 package com.ista.magicaltv;
 
-import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentActivity;
 
 import android.os.Bundle;
@@ -28,7 +27,6 @@ public class WebView2p extends FragmentActivity {
         } else if (MainActivity.idImageResource == R.id.imageView20){
             urlsVideo = video.getUrls().get(4);
         }//androidtv
-        //androidtv
         else if (MainActivity.idImageResource == R.id.ATV1){
             urlsVideo = video.getUrls().get(5);
         }else if (MainActivity.idImageResource == R.id.ATV2){
@@ -39,15 +37,15 @@ public class WebView2p extends FragmentActivity {
             urlsVideo = video.getUrls().get(8);
         }
         ///VIDEOS FILA 3
-        else if (MainActivity.idImageResource == R.id.ATV5){
+        else if (MainActivity.idImageResource == R.id.img6){
             urlsVideo = video.getUrls().get(9);
-        }else if (MainActivity.idImageResource == R.id.ATV6){
+        }else if (MainActivity.idImageResource == R.id.img7){
             urlsVideo = video.getUrls().get(10);
-        }else if (MainActivity.idImageResource == R.id.ATV7){
+        }else if (MainActivity.idImageResource == R.id.img8){
             urlsVideo = video.getUrls().get(11);
-        }else if (MainActivity.idImageResource == R.id.ATV8){
+        }else if (MainActivity.idImageResource == R.id.img9){
             urlsVideo = video.getUrls().get(12);
-        }else if (MainActivity.idImageResource == R.id.ATV9){
+        }else if (MainActivity.idImageResource == R.id.img10){
             urlsVideo = video.getUrls().get(13);
         }
         super.onCreate(savedInstanceState);
