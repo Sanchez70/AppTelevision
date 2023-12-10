@@ -263,7 +263,7 @@
                         android:layout_width="190dp"
                         android:layout_height="200dp"
                         android:layout_weight="1"
-                        android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
+                        android:src="@drawable/imagen_de_whatsapp_2023_12_09_a_las_18_19_41_3943f73f" />
 
                     <Space
                         android:layout_width="50dp"
@@ -275,7 +275,7 @@
                         android:layout_width="190dp"
                         android:layout_height="200dp"
                         android:layout_weight="1"
-                        android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
+                        android:src="@drawable/imagen_de_whatsapp_2023_12_09_a_las_18_19_42_85a87489" />
 
                     <Space
                         android:layout_width="50dp"
@@ -287,14 +287,14 @@
                         android:layout_width="190dp"
                         android:layout_height="200dp"
                         android:layout_weight="1"
-                        android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
+                        android:src="@drawable/imagen_de_whatsapp_2023_12_09_a_las_18_19_42_a21e1f5b" />
 
                 </LinearLayout>
             </HorizontalScrollView>
 
             <HorizontalScrollView
                 android:id="@+id/scroll4"
-                android:layout_width="match_parent"
+                android:layout_width="500dp"
                 android:layout_height="match_parent"
                 android:contentDescription="fvvefr"
                 android:fadeScrollbars="false"
