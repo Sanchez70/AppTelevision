@@ -12,6 +12,7 @@ import android.util.Log;
 import android.view.View;
 import android.webkit.WebChromeClient;
 import android.webkit.WebView;
+import android.widget.HorizontalScrollView;
 import android.widget.ImageView;
 import android.widget.MediaController;
 import android.widget.VideoView;
@@ -26,6 +27,14 @@ public class MainActivity extends FragmentActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        HorizontalScrollView horizontalScrollView = findViewById(R.id.SCROLL1);
+        HorizontalScrollView horizontalScrollView1 = findViewById(R.id.scroll2);
+        HorizontalScrollView horizontalScrollView2 = findViewById(R.id.scroll3);
+        HorizontalScrollView horizontalScrollView3 = findViewById(R.id.scroll4);
+        horizontalScrollView.setHorizontalScrollBarEnabled(false);
+        horizontalScrollView1.setHorizontalScrollBarEnabled(false);
+        horizontalScrollView2.setHorizontalScrollBarEnabled(false);
+        horizontalScrollView3.setHorizontalScrollBarEnabled(false);
     }
 
 

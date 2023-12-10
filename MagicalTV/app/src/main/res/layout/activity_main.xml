@@ -9,7 +9,8 @@
 
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:fadeScrollbars="false">
 
         <RelativeLayout
             android:layout_width="match_parent"
@@ -77,9 +78,11 @@
             </LinearLayout>
 
             <HorizontalScrollView
+                android:id="@+id/SCROLL1"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:contentDescription="activando"
+                android:fadeScrollbars="false"
                 android:translationX="290dp"
                 android:translationY="200dp">
 
@@ -147,9 +150,11 @@
             </HorizontalScrollView>
 
             <HorizontalScrollView
+                android:id="@+id/scroll2"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:contentDescription="activando"
+                android:fadeScrollbars="false"
                 android:translationX="290dp"
                 android:translationY="400dp">
 
@@ -216,9 +221,11 @@
             </HorizontalScrollView>
 
             <HorizontalScrollView
+                android:id="@+id/scroll3"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:contentDescription="activando"
+                android:fadeScrollbars="false"
                 android:translationX="290dp"
                 android:translationY="600dp">
 
@@ -286,9 +293,11 @@
             </HorizontalScrollView>
 
             <HorizontalScrollView
+                android:id="@+id/scroll4"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:contentDescription="fvvefr"
+                android:fadeScrollbars="false"
                 android:translationX="290dp">
 
 
