@@ -14,9 +14,9 @@ public class WebView2p extends FragmentActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         video.añadirVideos();
-        if ((MainActivity.idImageResource == R.id.imageView11)) {
+        if ((MainActivity.idImageResource == R.id.imageView16)) {
             urlsVideo = video.getUrls().get(0);
-        } else if (MainActivity.idImageResource == R.id.imageView12) {
+        } else if (MainActivity.idImageResource == R.id.imageView17) {
             urlsVideo = video.getUrls().get(1);
         } else if (MainActivity.idImageResource == R.id.imageView18){
             urlsVideo = video.getUrls().get(2);
