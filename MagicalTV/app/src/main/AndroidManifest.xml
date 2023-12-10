@@ -11,8 +11,8 @@
 
     <application
         android:allowBackup="true"
-        android:banner="@drawable/lb_background"
-        android:icon="@mipmap/ic_launcher"
+        android:banner="@drawable/imagen_de_whatsapp_2023_12_10_a_las_09_00_35_927ffe2b"
+        android:icon="@drawable/imagen_de_whatsapp_2023_12_10_a_las_09_00_35_927ffe2b"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.MagicalTV">
