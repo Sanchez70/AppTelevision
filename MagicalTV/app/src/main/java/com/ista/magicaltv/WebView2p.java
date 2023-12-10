@@ -19,6 +19,14 @@ public class WebView2p extends FragmentActivity {
             urlsVideo = video.getUrls().get(0);
         } else if (MainActivity.idImageResource == R.id.imageView12) {
             urlsVideo = video.getUrls().get(1);
+        } else if (MainActivity.idImageResource == R.id.imageView18){
+            urlsVideo = video.getUrls().get(2);
+
+        } else if (MainActivity.idImageResource == R.id.imageView19){
+            urlsVideo = video.getUrls().get(3);
+
+        } else if (MainActivity.idImageResource == R.id.imageView20){
+            urlsVideo = video.getUrls().get(4);
         }
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_web_view2p);
