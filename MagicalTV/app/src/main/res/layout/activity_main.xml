@@ -102,7 +102,7 @@
                             android:layout_height="200dp"
                             android:contentDescription="sacsvd"
                             android:onClick="onImageViewClick"
-                            android:src="@drawable/image11" />
+                            android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
 
                         <Space
                             android:layout_width="50dp"
@@ -176,10 +176,11 @@
                         android:orientation="horizontal">
 
                         <ImageView
-                            android:id="@+id/imageView"
+                            android:id="@+id/ATV1"
                             android:layout_width="190dp"
                             android:layout_height="200dp"
-                            android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
+                            android:onClick="onImageViewClick"
+                            android:src="@drawable/image11" />
 
                         <Space
                             android:layout_width="50dp"
@@ -187,11 +188,12 @@
                             android:layout_weight="1" />
 
                         <ImageView
-                            android:id="@+id/imageView3"
+                            android:id="@+id/ATV2"
                             android:layout_width="190dp"
                             android:layout_height="200dp"
                             android:layout_weight="1"
-                            android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
+                            android:onClick="onImageViewClick"
+                            android:src="@drawable/img17" />
 
                         <Space
                             android:layout_width="50dp"
@@ -199,11 +201,12 @@
                             android:layout_weight="1" />
 
                         <ImageView
-                            android:id="@+id/imageView4"
+                            android:id="@+id/ATV3"
                             android:layout_width="190dp"
                             android:layout_height="200dp"
                             android:layout_weight="1"
-                            android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
+                            android:onClick="onImageViewClick"
+                            android:src="@drawable/img18" />
 
                         <Space
                             android:layout_width="50dp"
@@ -211,11 +214,12 @@
                             android:layout_weight="1" />
 
                         <ImageView
-                            android:id="@+id/imageView2"
+                            android:id="@+id/ATV4"
                             android:layout_width="190dp"
                             android:layout_height="200dp"
                             android:layout_weight="1"
-                            android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
+                            android:onClick="onImageViewClick"
+                            android:src="@drawable/img19" />
 
                         <Space
                             android:layout_width="50dp"
@@ -223,11 +227,12 @@
                             android:layout_weight="1" />
 
                         <ImageView
-                            android:id="@+id/imageView5"
+                            android:id="@+id/ATV5"
                             android:layout_width="190dp"
                             android:layout_height="200dp"
                             android:layout_weight="1"
-                            android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
+                            android:onClick="onImageViewClick"
+                            android:src="@drawable/img20" />
 
                         <Space
                             android:layout_width="50dp"
@@ -329,6 +334,7 @@
                             android:id="@+id/imageView16"
                             android:layout_width="190dp"
                             android:layout_height="200dp"
+                            android:layout_weight="1"
                             android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
 
                         <Space
@@ -355,7 +361,7 @@
                             android:layout_weight="1"
                             android:contentDescription="vdieo3"
                             android:onClick="onImageViewClick"
-                            android:src="@drawable/imagen_de_whatsapp_2023_12_09_a_las_18_19_41_3943f73f" />
+                            android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
 
                         <Space
                             android:layout_width="50dp"
@@ -368,7 +374,7 @@
                             android:layout_height="200dp"
                             android:layout_weight="1"
                             android:onClick="onImageViewClick"
-                            android:src="@drawable/imagen_de_whatsapp_2023_12_09_a_las_18_19_42_85a87489" />
+                            android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
 
                         <Space
                             android:layout_width="50dp"
@@ -381,7 +387,7 @@
                             android:layout_height="200dp"
                             android:layout_weight="1"
                             android:onClick="onImageViewClick"
-                            android:src="@drawable/imagen_de_whatsapp_2023_12_09_a_las_18_19_42_a21e1f5b" />
+                            android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
 
                         <Space
                             android:layout_width="50dp"
