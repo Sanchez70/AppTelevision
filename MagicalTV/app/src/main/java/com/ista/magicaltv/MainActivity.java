@@ -27,8 +27,8 @@ public class MainActivity extends FragmentActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        HorizontalScrollView horizontalScrollView = findViewById(R.id.SCROLL1);
-        HorizontalScrollView horizontalScrollView1 = findViewById(R.id.scroll2);
+        HorizontalScrollView horizontalScrollView = findViewById(R.id.SCROLL2);
+        HorizontalScrollView horizontalScrollView1 = findViewById(R.id.scroll1);
         HorizontalScrollView horizontalScrollView2 = findViewById(R.id.scroll3);
         HorizontalScrollView horizontalScrollView3 = findViewById(R.id.scroll4);
         horizontalScrollView.setHorizontalScrollBarEnabled(false);

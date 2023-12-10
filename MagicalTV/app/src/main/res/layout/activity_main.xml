@@ -78,11 +78,11 @@
             </LinearLayout>
 
             <HorizontalScrollView
-                android:id="@+id/SCROLL1"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:id="@+id/SCROLL2"
+                android:layout_width="664dp"
+                android:layout_height="217dp"
                 android:contentDescription="activando"
-                android:fadeScrollbars="false"
+                android:fadeScrollbars="true"
                 android:translationX="290dp"
                 android:translationY="200dp">
 
@@ -146,15 +146,20 @@
                         android:layout_weight="1"
                         android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
 
+                    <Space
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
                 </LinearLayout>
             </HorizontalScrollView>
 
             <HorizontalScrollView
-                android:id="@+id/scroll2"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:id="@+id/scroll3"
+                android:layout_width="670dp"
+                android:layout_height="201dp"
                 android:contentDescription="activando"
-                android:fadeScrollbars="false"
+                android:fadeScrollbars="true"
                 android:translationX="290dp"
                 android:translationY="400dp">
 
@@ -217,15 +222,21 @@
                         android:layout_height="200dp"
                         android:layout_weight="1"
                         android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
+
+                    <Space
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
                 </LinearLayout>
             </HorizontalScrollView>
 
             <HorizontalScrollView
-                android:id="@+id/scroll3"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:id="@+id/scroll4"
+                android:layout_width="670dp"
+                android:layout_height="200dp"
                 android:contentDescription="activando"
-                android:fadeScrollbars="false"
+                android:fadeScrollbars="true"
                 android:translationX="290dp"
                 android:translationY="600dp">
 
@@ -289,15 +300,20 @@
                         android:layout_weight="1"
                         android:src="@drawable/imagen_de_whatsapp_2023_12_09_a_las_18_19_42_a21e1f5b" />
 
+                    <Space
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
                 </LinearLayout>
             </HorizontalScrollView>
 
             <HorizontalScrollView
-                android:id="@+id/scroll4"
-                android:layout_width="500dp"
-                android:layout_height="match_parent"
+                android:id="@+id/scroll1"
+                android:layout_width="670dp"
+                android:layout_height="197dp"
                 android:contentDescription="fvvefr"
-                android:fadeScrollbars="false"
+                android:fadeScrollbars="true"
                 android:translationX="290dp">
 
 
@@ -363,6 +379,11 @@
                         android:layout_height="200dp"
                         android:layout_weight="1"
                         android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
+
+                    <Space
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
 
                 </LinearLayout>
             </HorizontalScrollView>
