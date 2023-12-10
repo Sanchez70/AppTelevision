@@ -13,6 +13,7 @@ public class Url extends FragmentActivity {
 
     public void añadirVideos(){
         //Videos de la fila 5
+        urls.add("<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/ZtfrwRb7-LY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>");
         urls.add("<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/V2KCAfHjySQ?si=WfDmT6m2weM5UpQ5\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>");
         urls.add("<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/zSsRXMlTA2A?si=1KgmeH4vRVN9rq81\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>");
         urls.add("<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/XmMSM7--P2A?si=EhCrGPNd37z5PSkv\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>");

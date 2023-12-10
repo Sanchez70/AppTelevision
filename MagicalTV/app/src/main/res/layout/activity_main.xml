@@ -102,7 +102,7 @@
                             android:layout_height="200dp"
                             android:contentDescription="sacsvd"
                             android:onClick="onImageViewClick"
-                            android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
+                            android:src="@drawable/image11" />
 
                         <Space
                             android:layout_width="50dp"
