@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity" >
+    tools:context=".MainActivity">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -301,6 +301,8 @@
                         android:id="@+id/imageView11"
                         android:layout_width="190dp"
                         android:layout_height="200dp"
+                        android:contentDescription="sacsvd"
+                        android:onClick="onImageViewClick"
                         android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
 
                     <Space
@@ -313,6 +315,8 @@
                         android:layout_width="190dp"
                         android:layout_height="200dp"
                         android:layout_weight="1"
+                        android:contentDescription="sadadas"
+                        android:onClick="onImageViewClick"
                         android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
 
                     <Space

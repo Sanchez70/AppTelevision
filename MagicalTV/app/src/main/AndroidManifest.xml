@@ -17,11 +17,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MagicalTV">
         <activity
-            android:name=".webView"
+            android:name=".Url"
             android:exported="false" />
         <activity
-            android:name=".ImageViewActivity"
-            android:exported="true" />
+            android:name=".WebView2p"
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
