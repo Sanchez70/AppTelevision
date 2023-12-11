@@ -33,28 +33,31 @@ public class WebView2p extends FragmentActivity {
             urlsVideo = video.getUrls().get(7);
         }else if (MainActivity.idImageResource == R.id.ATV4){
             urlsVideo = video.getUrls().get(8);
+        }else if (MainActivity.idImageResource == R.id.ATV5){
+            urlsVideo = video.getUrls().get(9);
         }
         ///VIDEOS FILA 3
         else if (MainActivity.idImageResource == R.id.img6){
-            urlsVideo = video.getUrls().get(9);
-        }else if (MainActivity.idImageResource == R.id.img7){
             urlsVideo = video.getUrls().get(10);
-        }else if (MainActivity.idImageResource == R.id.img8){
+        }else if (MainActivity.idImageResource == R.id.img7){
             urlsVideo = video.getUrls().get(11);
-        }else if (MainActivity.idImageResource == R.id.img9){
+        }else if (MainActivity.idImageResource == R.id.img8){
             urlsVideo = video.getUrls().get(12);
-        }else if (MainActivity.idImageResource == R.id.img10){
+        }else if (MainActivity.idImageResource == R.id.img9){
             urlsVideo = video.getUrls().get(13);
+        }else if (MainActivity.idImageResource == R.id.img10){
+            urlsVideo = video.getUrls().get(14);
         }
-        else if (MainActivity.idImageResource == R.id.img11){
+        //fila 1
+        else if (MainActivity.idImageResource == R.id.imageView11){
             urlsVideo = video.getUrls().get(15);
-        }else if (MainActivity.idImageResource == R.id.img12){
+        }else if (MainActivity.idImageResource == R.id.imageView12){
             urlsVideo = video.getUrls().get(16);
-        }else if (MainActivity.idImageResource == R.id.img13){
+        }else if (MainActivity.idImageResource == R.id.imageView13){
             urlsVideo = video.getUrls().get(17);
-        }else if (MainActivity.idImageResource == R.id.img14){
+        }else if (MainActivity.idImageResource == R.id.imageView14){
             urlsVideo = video.getUrls().get(18);
-        }else if (MainActivity.idImageResource == R.id.img15){
+        }else if (MainActivity.idImageResource == R.id.imageView15){
             urlsVideo = video.getUrls().get(19);
         }
         super.onCreate(savedInstanceState);

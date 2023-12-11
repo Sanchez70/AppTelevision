@@ -40,7 +40,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="110dp"
                     android:gravity="center"
-                    android:text="ANDROID TV"
+                    android:text="ANDROID STUDIO"
                     android:textColor="#FF524D4D"
                     android:textSize="20sp"
                     android:textStyle="bold" />
@@ -70,7 +70,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
                     android:gravity="center"
-                    android:text="ANDROID TV"
+                    android:text="APPS Y PLAYSTORE"
                     android:textColor="#FF524D4D"
                     android:textSize="20sp"
                     android:textStyle="bold" />
@@ -102,7 +102,7 @@
                             android:layout_height="200dp"
                             android:contentDescription="sacsvd"
                             android:onClick="onImageViewClick"
-                            android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
+                            android:src="@drawable/_1" />
 
                         <Space
                             android:layout_width="50dp"
@@ -116,7 +116,7 @@
                             android:layout_weight="1"
                             android:contentDescription="sadadas"
                             android:onClick="onImageViewClick"
-                            android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
+                            android:src="@drawable/_2" />
 
                         <Space
                             android:layout_width="50dp"
@@ -128,7 +128,8 @@
                             android:layout_width="190dp"
                             android:layout_height="200dp"
                             android:layout_weight="1"
-                            android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
+                            android:onClick="onImageViewClick"
+                            android:src="@drawable/_3" />
 
                         <Space
                             android:layout_width="50dp"
@@ -140,7 +141,8 @@
                             android:layout_width="190dp"
                             android:layout_height="200dp"
                             android:layout_weight="1"
-                            android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
+                            android:onClick="onImageViewClick"
+                            android:src="@drawable/_4" />
 
                         <Space
                             android:layout_width="50dp"
@@ -152,7 +154,8 @@
                             android:layout_width="190dp"
                             android:layout_height="200dp"
                             android:layout_weight="1"
-                            android:src="@drawable/gratis_png_mario_y_yoshi_super_mario_world_2_yoshi_s_island_yoshi_thumbnail_photoroom_png_photoroom" />
+                            android:onClick="onImageViewClick"
+                            android:src="@drawable/_5" />
 
                         <Space
                             android:layout_width="50dp"
