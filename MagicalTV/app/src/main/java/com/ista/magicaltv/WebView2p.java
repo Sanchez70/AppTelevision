@@ -20,10 +20,8 @@ public class WebView2p extends FragmentActivity {
             urlsVideo = video.getUrls().get(1);
         } else if (MainActivity.idImageResource == R.id.imageView18){
             urlsVideo = video.getUrls().get(2);
-
         } else if (MainActivity.idImageResource == R.id.imageView19){
             urlsVideo = video.getUrls().get(3);
-
         } else if (MainActivity.idImageResource == R.id.imageView20){
             urlsVideo = video.getUrls().get(4);
         }//androidtv
@@ -47,6 +45,17 @@ public class WebView2p extends FragmentActivity {
             urlsVideo = video.getUrls().get(12);
         }else if (MainActivity.idImageResource == R.id.img10){
             urlsVideo = video.getUrls().get(13);
+        }
+        else if (MainActivity.idImageResource == R.id.img11){
+            urlsVideo = video.getUrls().get(15);
+        }else if (MainActivity.idImageResource == R.id.img12){
+            urlsVideo = video.getUrls().get(16);
+        }else if (MainActivity.idImageResource == R.id.img13){
+            urlsVideo = video.getUrls().get(17);
+        }else if (MainActivity.idImageResource == R.id.img14){
+            urlsVideo = video.getUrls().get(18);
+        }else if (MainActivity.idImageResource == R.id.img15){
+            urlsVideo = video.getUrls().get(19);
         }
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_web_view2p);
